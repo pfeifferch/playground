@@ -32,4 +32,4 @@ Test2:
 ---
 
 Test3:
- -
+ {% assign category = page.title|downcase %} {% for post in site.posts %} {% if post.categories contains {{category}} %} <li>{{ post.title }}</li> {% endif %} {% endfor %}

@@ -18,18 +18,4 @@ Test1:
 ---
 
 Test2:
-<h1>{{ page.title }}</h1>
-<div class="tags">
- {% assign sortedCategories = page.categories | sort %}
- {% for category in sortedCategories %} 
-<span class="tag">
- <a href="/category/{{ category }}">#{{ category }}</a>
-</span> 
-{% endfor %}
-</div>
-
-
----
-
-Test3:
- {% assign category = page.title|downcase %} {% for post in site.posts %} {% if post.categories contains {{category}} %} <li>{{ post.title }}</li> {% endif %} {% endfor %}
+<h1>{{ page.tag }}</h1> <ul> {% for post in site.tags[page.tag] %} <li> {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul>

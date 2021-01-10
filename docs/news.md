@@ -11,6 +11,7 @@ Test1:
  {% for post in site.posts %}
  <li>
   <a href="{{ post.url }}">{{ post.title }}</a>
+  {{ de in site.categories }}
  </li>
 {% endfor %}
 </ul>

@@ -18,9 +18,8 @@ Test1:
 ---
 
 Test2:
-<ul> {% for link in linklists.categories.links %} <li>{{ link.title | link_to: link.url }}</li> {% endfor %} </ul>
-
+ -
 ---
 
 Test3:
--
+ -

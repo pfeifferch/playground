@@ -1,4 +1,3 @@
-
 # SOCIAL BADGES
 
 
@@ -7,8 +6,8 @@
 
 
 ## Twitter 
-![Twitter Follow](https://img.shields.io/twitter/follow/USERNAME?label=FOLLOWTWT&style=social&color=informational)
-![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&style=social&url=phpself)
+![Twitter Follow](https://img.shields.io/twitter/follow/w8bot?label=FOLLOWTWT&style=social&color=informational)
+![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&style=social&url=phpself.php)
 
 
 
@@ -31,30 +30,49 @@
 
 
 
-Generell
+# Generell
+
 > https://img.shields.io/badge/LABEL-MESSAGE-COLOR
 
-Farben
+## Farben
+
 > lightgrey
+
 > brightgreen
+
 > green
+
 > yellowgreen
+
 > yellow
+
 > orange
+
 > red
+
 > lightgrey
+
 > blue
 
-Styles
+
+## Styles
+
 > ?style=plastic&logo=appveyor
+
 > ?style=flat&logo=appveyor
+
 > ?style=flat-square&logo=appveyor
+
 > ?style=for-the-badge&logo=appveyor
+
 > ?style=social&logo=appveyor
+
 
 ---
 
+
 > ?label=healthinesses
+
 Override the default left-hand-side text (URL-Encoding needed for spaces or special characters!)
 
 

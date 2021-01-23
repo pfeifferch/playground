@@ -54,6 +54,20 @@
 
 > blue
 
+> blueviolet
+
+Msg Boxes Colors:
+
+> success
+
+> important
+
+> critical
+
+> informational
+
+> inactive
+
 
 ## Styles
 

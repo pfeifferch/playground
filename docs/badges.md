@@ -6,8 +6,8 @@
 
 
 ## Twitter 
-![Twitter Follow](https://img.shields.io/twitter/follow/w8bot?label=FOLLOWTWT&style=social&color=informational)
-![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&style=social&url=phpself.php)
+![Twitter Follow](https://img.shields.io/twitter/follow/w8bot?label=FOLLOWTWT&?&color=blue)
+![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
 
 
 

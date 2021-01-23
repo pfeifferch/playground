@@ -36,15 +36,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-
-# SOCIAL BADGES
-
-![Repositories on GitHub](https://img.shields.io/badge/Repositories-on%20GitHub-blue?style=social&logo=GitHub)
-
-## Twitter 
-![Twitter Follow](https://img.shields.io/twitter/follow/USERNAME?label=FOLLOWTWT&style=social&color=informational)
-![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&style=social&url=phpself)
-
-
-
-

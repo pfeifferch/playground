@@ -1,5 +1,6 @@
 # SOCIAL BADGES
 
+[Logos auf https://simpleicons.org/](https://simpleicons.org/)
 
 ![Repositories on GitHub](https://img.shields.io/badge/Repositories-on%20GitHub-blue?style=social&logo=GitHub)
 

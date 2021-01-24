@@ -13,28 +13,19 @@ WhatsApp  #25D366
 
 
 
+## BADGES
 
-
-## Twitter 
-![Twitter Follow](https://img.shields.io/twitter/follow/w8bot?label=FOLLOWTWT&?&color=blue)
-
-
-
-### Test
-
-![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&colorA=blueviolet&colorB=success)
-
-![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
-
-
-### 123
-
-Follow
+### Follow
 
 ![Test on followFB](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Facebook&logoColor=1877F2&colorA=eeeeee&colorB=1877F2)
-![Test on followTwttr](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on followInsta](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on followYT](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+
+![Test on followTwttr](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Twitter&logoColor=1DA1F2&colorA=eeeeee&colorB=1DA1F2)
+
+![Test on followInsta](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Instagram&logoColor=E4405F&colorA=eeeeee&colorB=E4405F)
+
+![Test on followYT](https://shields.io/badge/Hello-World-red?&style=plastic&logo=YouTube&logoColor=FF0000&colorA=eeeeee&colorB=FF0000)
+
+---
 
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
@@ -42,11 +33,17 @@ Follow
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 
 
-Talk
+### Talk
 
 ![Test on devOnGitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on chatOnGitter](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on chatOnWtsApp](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+
+![Test on devOnDocker](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Docker&logoColor=123456&colorA=blueviolet&colorB=success)
+
+![Test on chatOnGitter](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Gitter&logoColor=123456&colorA=blueviolet&colorB=success)
+
+![Test on chatOnWtsApp](https://shields.io/badge/Hello-World-red?&style=plastic&logo=WhatsApp&logoColor=25D366&colorA=eeeeee&colorB=25D366)
+
+---
 
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
@@ -55,13 +52,19 @@ Talk
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 
 
-Safe and Share
+### Safe and Share
 
 ![Share on ShareOnFB](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Facebook&logoColor=1877F2&colorA=eeeeee&colorB=1877F2)
-![Share on ShareOnTwttr](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Share on ShareOnInsta](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Share on ShareOnWtsApp](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Safe on Pinterest](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+
+![Share on ShareOnTwttr](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Twitter&logoColor=1DA1F2&colorA=eeeeee&colorB=1DA1F2)
+
+![Share on ShareOnInsta](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Instagram&logoColor=E4405F&colorA=eeeeee&colorB=E4405F)
+
+![Share on ShareOnWtsApp](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Whatsapp&logoColor=25D366&colorA=eeeeee&colorB=25D366)
+
+![Safe on Pinterest](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Pinterest&logoColor=BD081C&colorA=eeeeee&colorB=BD081C)
+
+---
 
 ![Share on Twitter](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 ![Share on Twitter](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)

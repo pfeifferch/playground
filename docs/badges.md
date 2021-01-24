@@ -29,30 +29,34 @@ WhatsApp  #25D366
 
 ### 123
 
+Follow
+![Test on followFB](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+![Test on followTwttr](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+![Test on followInsta](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+![Test on followYT](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+
+Talk
+![Test on devOnGitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+![Test on chatOnGitter](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+![Test on chatOnWtsApp](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 ![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
-![Test on GitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
 
-
-![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
-![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
-![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
-![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
-![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
+Safe and Share
+![Share on ShareOnFB](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
+![Share on ShareOnTwttr](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
+![Share on ShareOnInsta](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
+![Share on ShareOnWtsApp](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
+![Safe on Pinterest](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
 ![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
 ![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)
 ![Share on Twitter](https://img.shields.io/twitter/url?label=SHAREONTWT&url=https://example.com/phpself.php)

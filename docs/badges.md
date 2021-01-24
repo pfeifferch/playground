@@ -2,15 +2,15 @@
 
 [Logos auf https://simpleicons.org/](https://simpleicons.org/)
 
-![Repositories on GitHub](https://img.shields.io/badge/Repositories-on%20GitHub-blue?style=social&logo=GitHub)
-
 Facebook  #1877F2
 Twitter   #1DA1F2
 Pinterest #BD081C
 YouTube   #FF0000
 Instagram #E4405F
 WhatsApp  #25D366
-
+GitHub    #181717
+Docker    #2496ED
+Gitter    #ED1965
 
 
 ## BADGES
@@ -35,11 +35,11 @@ WhatsApp  #25D366
 
 ### Talk
 
-![Test on devOnGitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=123456&colorA=blueviolet&colorB=success)
+![Test on devOnGitHub](https://shields.io/badge/Hello-World-red?&style=plastic&logo=GitHub&logoColor=181717&colorA=eeeeee&colorB=181717)
 
-![Test on devOnDocker](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Docker&logoColor=123456&colorA=blueviolet&colorB=success)
+![Test on devOnDocker](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Docker&logoColor=2496ED&colorA=eeeeee&colorB=2496ED)
 
-![Test on chatOnGitter](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Gitter&logoColor=123456&colorA=blueviolet&colorB=success)
+![Test on chatOnGitter](https://shields.io/badge/Hello-World-red?&style=plastic&logo=Gitter&logoColor=ED1965&colorA=eeeeee&colorB=ED1965)
 
 ![Test on chatOnWtsApp](https://shields.io/badge/Hello-World-red?&style=plastic&logo=WhatsApp&logoColor=25D366&colorA=eeeeee&colorB=25D366)
 

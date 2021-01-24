@@ -4,6 +4,15 @@
 
 ![Repositories on GitHub](https://img.shields.io/badge/Repositories-on%20GitHub-blue?style=social&logo=GitHub)
 
+Facebook  #1877F2
+Twitter   #1DA1F2
+Pinterest #BD081C
+YouTube   #FF0000
+Instagram #E4405F
+WhatsApp  #25D366
+
+
+
 
 
 ## Twitter 

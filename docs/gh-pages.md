@@ -12,11 +12,11 @@ ___
 
 # Test's 
 
-[B](template.pc-tests.tk)
+[B](https://template.pc-tests.tk)
 
-[C](isepg.pc-tests.tk)
+[C](https://isepg.pc-tests.tk)
 
-[D](ise2.pc-tests.tk)
+[D](https://ise2.pc-tests.tk)
 
 []()
 

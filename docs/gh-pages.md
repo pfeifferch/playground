@@ -5,7 +5,7 @@ repo (branch)
 
 [playground / gh-pages](https://github.com/pfeifferch/playground/tree/gh-pages/docs)
 - [playground](https://www.pc-tests.tk/)
-- [list of gh-pages](https://www.pc-tests.tk/- [playground](https://www.pc-tests.tk/gh-pages.html)
+- [list of gh-pages](https://www.pc-tests.tk/gh-pages.html)
 
 [repositorie / branch](#url)
 - [pc-cdn](https://www.pc-cdn.eu/)

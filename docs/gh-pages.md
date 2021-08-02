@@ -1,8 +1,8 @@
 ## GitHub Pages
 
-[pc-cdn](https://www.pc-cdn.eu/)
+[playground](https://www.pc-tests.tk/)
 
-[playground](https://gh.pfeiffer.space)
+[pc-cdn](https://www.pc-cdn.eu/)
 
 [disposable-mailbox](https://gh.disposable-mailbox.eu)
 
@@ -11,8 +11,6 @@
 ___
 
 # Test's 
-
-[A](www.pc-tests.tk)
 
 [B](template.pc-tests.tk)
 

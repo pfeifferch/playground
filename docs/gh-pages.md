@@ -1,7 +1,7 @@
-## GitHub Pages
+# GitHub Pages
 
-repo (branch)
-- website
+> repo (branch)
+> - website
 
 [playground / gh-pages](https://github.com/pfeifferch/playground/tree/gh-pages/docs)
 - [playground](https://www.pc-tests.tk/)

@@ -22,7 +22,7 @@
 
  <article class="hentry">
    <header class="entry-header">
-		<h5 class="entry-title">     <a href="test1.html" rel="bookmark">test1.html</a>   </h5>
+		<h5 class="entry-title">     <a href="test.html" rel="bookmark">test.html</a>   </h5>
 		<span class="entry-format-badge genericon genericon-gallery"></span>
 	</header>
 	
@@ -33,7 +33,7 @@
 
  <article class="hentry">
    <header class="entry-header">
-		<h5 class="entry-title">    <a href="test2.html" rel="bookmark">test1.html</a>     </h5>
+		<h5 class="entry-title">    <a href="test1.html" rel="bookmark">test1.html</a>     </h5>
 		<span class="entry-format-badge genericon genericon-gallery"></span>
 	</header>
 	

@@ -1,3 +1,10 @@
+    <link href="https://emoji.templates.pc-cdn.de/emoji.css" rel="stylesheet">
+   
+        <li class="emoji" data-clipboard-text="&lt;i class=&quot;em em-broom&quot; aria-role=&quot;presentation&quot; aria-label=&quot;BROOM&quot;&gt;&lt;/i&gt;">
+          <i class="em em-broom" aria-role="presentation" aria-label="BROOM"></i> em-<span class="name" data-alternative-names=",BROOM">broom</span>
+
+
+        </li>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pfeifferch/playground/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.

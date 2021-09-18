@@ -1,4 +1,4 @@
-<link href="https://emoji.templates.pc-cdn.de/emoji.css" rel="stylesheet">
+<link href="https://emoji.template.pc-cdn.de/emoji.css" rel="stylesheet">
 <li class="emoji" data-clipboard-text="&lt;i class=&quot;em em-broom&quot; aria-role=&quot;presentation&quot; aria-label=&quot;BROOM&quot;&gt;&lt;/i&gt;">
 <i class="em em-broom" aria-role="presentation" aria-label="BROOM"></i> em-<span class="name" data-alternative-names=",BROOM">broom</span>
 </li>

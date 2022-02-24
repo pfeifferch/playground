@@ -4,4 +4,4 @@
 
 <p class='family'
  style='font-family:"EuroPlate"' 
- align='left'>?Euro : Plate ! +</p>
+ align='left'>!Euro : Plate </p>

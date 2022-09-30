@@ -6,7 +6,7 @@
 
 ## Welcome to GitHub Pages
 
-{{ site.url | remove: "https://", "http://" }}
+{{ site.url | remove: "https://" and "http://" }}
 
 You can use the [editor on GitHub](https://github.com/pfeifferch/playground/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,6 +1,6 @@
 ---
 remote_theme: PfeifferChPT/c-pfeiffer-template
 theme_color: '#374758'
-pwrmalink: test.html
+permalink: test.html
 ---
 New Theme?
